@@ -1,0 +1,126 @@
+#Mainppal {
+    background-image: url("/img/figura.jpg");
+    background-size: cover;
+    padding: 1px;
+    background-repeat: no-repeat,repeat;
+    background-origin: content-box;
+
+}
+.titulo{
+    border: solid 3px gray;
+    margin: 5px;
+    padding-left: 4%;
+    align-content: flex-start;
+}
+
+.datos{
+    border: solid 3px gray;
+    padding: 3px;
+    margin: 2px;
+    padding-left: 2%;
+}
+
+.contactos{
+    border: solid 3px gray;
+    padding: 3px;
+    margin: 2px;
+    padding-left: 2%;
+    align-content:center;
+}
+
+.img{
+    position:relative;
+    top: 20px;
+    right: 3%;
+}
+
+.imagen{
+    width: 100px;
+    height: 120px;
+    float: right;
+    border-radius: 30%;
+    border:2px solid rgb(221, 166, 48);
+    float:right;
+}
+
+.tit{
+color: rgb(155, 154, 151);
+font-family: fantasy;
+font-size: 60px;
+margin: 2%;
+padding-left: 20%;
+text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.links{
+    color: rgb(247, 244, 244);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 1px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+
+.btn{
+    padding: 6px;
+    border-radius: .25rem;
+    background-color: #272726;
+    color: rgb(184, 175, 175);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+
+#CONTACTO{
+    color: rgb(247, 244, 244);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-top: 10px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+#profesionales{
+    color: rgb(247, 244, 244);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-top: 10px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.logo2{
+    width: 100px;
+    height: 100px;
+    float: center;
+    border-radius: 50%;
+    border:2px solid rgb(221, 166, 48);
+}
+
+.doctor{
+    color: rgb(255, 254, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-top: 10px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.parrafo{
+    color: rgb(247, 244, 244);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: 10px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.imagen2{
+    width: 100px;
+    height: 120px;
+    float: right;
+    border-radius: 30%;
+    border:2px solid rgb(221, 166, 48);
+    float:left;
+    margin: 40px;
+}
+
+.lista{
+  margin-left: 150px;
+}
+
